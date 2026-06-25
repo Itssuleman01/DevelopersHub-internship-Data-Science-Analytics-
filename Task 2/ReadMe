@@ -1,0 +1,77 @@
+# Loan Default Prediction
+
+## Objective
+
+The objective of this project is to predict whether a loan applicant is likely to default on a loan using machine learning techniques. By analyzing applicant information such as income, education level, loan amount, and credit history, the model helps identify potential loan risks and supports better lending decisions.
+
+
+
+**Loan Prediction Dataset** from Kaggle
+
+The dataset contains information about loan applicants, including demographic details, financial information, and loan-related attributes.
+
+
+
+
+
+* Identified and handled missing values.
+* Removed inconsistencies in the dataset.
+* Converted categorical variables into numerical format suitable for machine learning models.
+* Prepared the dataset for analysis and model training.
+
+
+Performed data visualization and analysis to understand patterns and relationships within the data.
+
+Key visualizations included:
+
+* Distribution of Loan Amount
+* Applicant Income Analysis
+* Education Level Distribution
+* Relationship between applicant characteristics and loan outcomes
+
+
+Trained a classification model to predict loan default risk.
+
+Models explored:
+
+* Decision Tree Classifier
+
+
+
+Evaluated model performance using:
+
+* Accuracy Score
+* Confusion Matrix
+* Classification Metrics
+
+These metrics help measure the model's ability to correctly classify loan applicants.
+
+## Skills Demonstrated
+
+* Data Cleaning and Preprocessing
+* Handling Missing Values
+* Exploratory Data Analysis (EDA)
+* Data Visualization using Python
+* Feature Encoding
+* Binary Classification
+* Machine Learning with Scikit-Learn
+* Model Evaluation using Accuracy and Confusion Matrix
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+* Jupyter Notebook
+
+## Results
+
+The trained classification model successfully predicted loan default outcomes and was evaluated using standard machine learning performance metrics. The project demonstrates the complete machine learning workflow from data preprocessing to model evaluation.
+
+
+
+**Suleman Afzal**
+Data Science & Analytics Portfolio Project
